@@ -1,0 +1,1 @@
+[null,{"name":"welcome","temp":"Member","event-type":"6","actions":[{"info":"0","find":"459709767523368960","storage":"1","varName":"WelcomeChannel","name":"Find Channel"},{"channel":"5","varName":"WelcomeChannel","message":"Hey ${tempVars(\"Member\")}, welcome to our server!","storage":"0","varName2":"","name":"Send Message"}]}]
